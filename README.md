@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **MERN stack, DSA**
+- 🌱 I’m currently learning **Back-end, DSA, Core Computer Science Subjects**
 
 - 👯 I’m looking to collaborate on **Open-Source**
 
