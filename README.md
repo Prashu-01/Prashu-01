@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://prashu-01.github.io/](https://prashu-01.github.io/)
 
+- 👨‍💻 **Portfolio**- [[https://prashu-01.github.io/](https://prashu-01.github.io/)]
+
 - 💬 Ask me about **Web Development, MERN stack, DSA, C++**
 
 - 📫 How to reach me **prashuverma012@gmail.com**
